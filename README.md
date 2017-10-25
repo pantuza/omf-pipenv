@@ -22,9 +22,9 @@ $ omf install pipenv
 
 ## Usage
 
-Just type ```pipenv```+ <tab> + <tab> and it will show you the completion.
+Just type ```pipenv```+ Tab + Tab and it will show you the completion.
 
-## PS
+## Acknowledgment
 The original code was written by [Kenneth Reitz](https://github.com/kennethreitz/). I just ported it to [Oh My Fish][omf-link].
 
 
