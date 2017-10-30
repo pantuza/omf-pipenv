@@ -1,4 +1,4 @@
 #
 # Runs ONLY at the installation moment
 #
-eval (pipenv --completion)
+. $path/init.fish
