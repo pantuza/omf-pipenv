@@ -11,7 +11,7 @@
 
 ## Description
 
-[Pipenv](https://github.com/kennethreitz/pipenv/) is a Python Development Workflow for Humans. This plugin allows you to have fish completion for pipenv. The only thing you have to do is to install it! 
+[Pipenv](https://github.com/kennethreitz/pipenv/) is a Python Development Workflow for Humans. This plugin allows you to have automatic pipenv activation when entering projects directory. The only thing you have to do is to install it! 
 
 ## Install
 
